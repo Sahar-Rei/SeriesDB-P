@@ -50,9 +50,8 @@ if (seriesDB.count < 5){
     
 }else if (seriesDB.count > 10){
     console.log("Siz serialchi zvezda ekansiz.");
-    
+}
 
-// }
 
 // Function Type >>>
 // startApp()
@@ -158,3 +157,4 @@ if (seriesDB.count < 5){
 //     }
 // }
 // writeGenres()
+
